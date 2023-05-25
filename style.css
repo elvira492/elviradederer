@@ -1,5 +1,14 @@
 body { 
-    background-color: rgb(123, 231, 231);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(212, 207, 149, 0.863);
+    font-family: Verdana;
     padding: 0 0 0 1rem;
+}
+body h1 {
+    margin-bottom: 1rem;
+}
+body header nav a {
+    text-decoration: none;
+    color: rgb(75, 42, 20);
+}
+body header nav a.active  {color: tomato;
 }
